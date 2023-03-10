@@ -1,3 +1,10 @@
-# java-starter-project #
+# KD Bi-Weekly Hackery #
 
-Something basic that you can clone and build on.
+Coding challenges completed as part of a learning group in Elsevier
+
+## In Progress:
+
+- Connect Four
+- Game of Blobs
+- Talking Clock
+- Labryinths Are Awesome Part 1 
