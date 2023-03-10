@@ -1,4 +1,4 @@
-package ConnectFour;
+package ConnectFourWIP;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package GameOfBlobs;
+package GameOfBlobsWIP;
 
 import java.nio.file.Paths;
 import java.util.HashMap;

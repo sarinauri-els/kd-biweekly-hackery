@@ -1,4 +1,4 @@
-package ConnectFour;
+package ConnectFourWIP;
 
 //  Player X = Uppercase
 //  Player O = Lowercase

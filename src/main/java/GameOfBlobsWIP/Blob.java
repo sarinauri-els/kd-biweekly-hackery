@@ -1,4 +1,4 @@
-package GameOfBlobs;
+package GameOfBlobsWIP;
 
 public class Blob {
     private int x;

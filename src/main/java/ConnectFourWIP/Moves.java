@@ -1,4 +1,4 @@
-package ConnectFour;
+package ConnectFourWIP;
 
 import java.nio.file.Paths;
 import java.util.List;
