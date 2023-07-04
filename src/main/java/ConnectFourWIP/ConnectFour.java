@@ -12,11 +12,8 @@ readMovesFromFile()
 
 public class ConnectFour {
     public static void main(String[] args) {
-
-    }
-
-    public Board createBoard(int rows, int columns) {
-        return new Board(rows, columns);
+        Board board = new Board(8,8);
+        
     }
 
     public void praseMoves() {
@@ -25,10 +22,5 @@ public class ConnectFour {
 
     public void placePieceInBoard(String move) {
 
-    }
-
-    public void play() {
-        createBoard(6, 7);
-        placePieceInBoard("d");
     }
 }
